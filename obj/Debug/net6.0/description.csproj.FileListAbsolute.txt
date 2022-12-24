@@ -1,0 +1,15 @@
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.csproj.AssemblyReference.cache
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.AssemblyInfoInputs.cache
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.AssemblyInfo.cs
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.csproj.CoreCompileInputs.cache
+C:\Users\oseev\Control-work\description\bin\Debug\net6.0\description.exe
+C:\Users\oseev\Control-work\description\bin\Debug\net6.0\description.deps.json
+C:\Users\oseev\Control-work\description\bin\Debug\net6.0\description.runtimeconfig.json
+C:\Users\oseev\Control-work\description\bin\Debug\net6.0\description.dll
+C:\Users\oseev\Control-work\description\bin\Debug\net6.0\description.pdb
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.dll
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\refint\description.dll
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.pdb
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\description.genruntimeconfig.cache
+C:\Users\oseev\Control-work\description\obj\Debug\net6.0\ref\description.dll
